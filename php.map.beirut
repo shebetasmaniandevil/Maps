@@ -160,7 +160,7 @@
     }
 </script>
 <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBO93ykrk4AjLJje_i6HfjE76ExQcbmdOQ&callback=initMap">
+        src="https://maps.googleapis.com/maps/api/js?key=YOURAPIKEY=initMap">
 </script>
 </body>
 </html>
